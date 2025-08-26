@@ -3,8 +3,8 @@ layout: page
 permalink: /presentations/
 title: Presentations
 description: A list of talks and poster presentations that I gave.
-nav: true
-nav_order: 3
+nav: false
+nav_order: 5
 ---
 
 <div class="publications">
