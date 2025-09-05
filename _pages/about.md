@@ -35,10 +35,10 @@ latest_posts:
    - (Backward) Stochastic Differential Equations
    - and their Applications in real-world markets
 
-My research focuses on stochastic control and (backward) stochastic differential equations (BSDEs/FBSDEs), with applications to real-world markets—including finance, commodities, and electricity systems. I develop analytical frameworks to solve optimal stopping/control problems, particularly those involving stock trading strategies and financial derivatives pricing under market/hazard risks. Additionally, I also investigated the existence, uniqueness, and regularity for complex BSDEs/FBSDEs arising in the topics above.
+My research focuses on stochastic control and (backward) stochastic differential equations (BSDEs/FBSDEs), with applications to real-world markets—including finance, commodities, and electricity systems. I develop analytical frameworks to solve optimal stopping/control problems, particularly those involving stock trading strategies and financial derivatives pricing under market/hazard risks. Additionally, I also investigated the existence, uniqueness, and regularity of complex BSDEs/FBSDEs arising in the topics above.
 
 
-**If you have any questions regarding my research or want to collaborate feel free to contact me anytime. I am looking for highly motivated students, feel free to drop me an email with your CV.**
+**If you have any questions regarding my research or want to collaborate, feel free to contact me anytime. I am looking for highly motivated students. Feel free to drop me an email with your CV and transcripts.**
 
 <div class="education">
 <h2>Employment</h2>
